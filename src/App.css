@@ -25,6 +25,7 @@
   justify-content: left;
   font-size: calc(10px + 2vmin);
 }
+
 .App-link {
   color: #61dafb;
 }
@@ -36,4 +37,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.text-center {
+  text-align: center !important;
 }
